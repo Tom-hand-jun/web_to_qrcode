@@ -7,6 +7,7 @@ pip install qrcode pillow
 
 这里是伪代码
 ————————————
+
 〈导入相关库〉
 
 「
